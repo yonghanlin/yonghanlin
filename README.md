@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋, I am Yonghan </h1>
+<h1 align="center">Hi👋, I am Alberta </h1>
 
 <h3 align="center">CS Student @ National Chiao Tung University, Taiwan</h3>
 
