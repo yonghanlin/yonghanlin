@@ -2,7 +2,7 @@
 
 <h3>CS @ National Yang Ming Chiao Tung University, Taiwan</h3>
 
-- 💻 Interested in HCI, CSCW & Social Computing
+- 💻 Interested in HCI, Ubiquitous Computing, Human-AI Interaction
 - 📷 Like to travel and take photos 
 - 📩 Reach me at <alberta410476@gmail.com>
 <!--<p>
