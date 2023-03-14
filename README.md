@@ -8,3 +8,7 @@
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=scod0401&bg_color=1f2938&text_color=FFFFFF&show_icons=true&hide-border=true&include_all_commits=true" />
 </p>
+<p>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=scod0401.scod0401" />
+</p>
+
