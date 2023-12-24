@@ -1,6 +1,6 @@
 <h1>Hi👋, I am Yong-Han from Taiwan</h1>
 
-<h3>Research Assistant @ National Yang Ming Chiao Tung University, Taiwan</h3>
+<h3>Research Assistant @ National Yang-Ming Chiao-Tung University, Taiwan</h3>
 
 - 💻 Interested in HCI, Ubiquitous Computing, Human-AI Interaction
 - 📷 Like to travel and take photos 
