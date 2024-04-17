@@ -2,7 +2,7 @@
 
 - 🔬 Human-Computer Interaction Researcher 
 - 💻 Tech Stack: Python | JavaScript | Java | R | SQL
-- 📩 Reach me at <alberta410476@gmail.com>
+- 📩 Reach me at <yon9hanlin@gmail.com>
 <!--<p>
 <img src="https://github-readme-stats.vercel.app/api?username=yonghanlin&bg_color=1f2938&text_color=FFFFFF&show_icons=true&hide-border=true&include_all_commits=true" />
 </p>-->
