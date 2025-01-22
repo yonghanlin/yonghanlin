@@ -1,6 +1,6 @@
 <h1 align="center">Hi👋, I am Yong-Han</h1>
 
-- 🔬 Human-Computer Interaction Researcher 
+- 🔬 Human-Computer Interaction Researcher & Software Developer
 - 💻 Tech Stack: Python | JavaScript | Java | R | SQL
 - 📩 Reach me at <yon9hanlin@gmail.com>
 <!--<p>
