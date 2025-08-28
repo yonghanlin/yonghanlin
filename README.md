@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋, I am Yong-Han</h1>
 
-- 🔬 Human-Computer Interaction Researcher & Software Developer
-- 💻 Tech Stack: Python | JavaScript | Java | R | SQL
+- 🔬 Software Developer & Human-Computer Interaction Researcher
+- 💻 Tech Stack: Python | JavaScript | Java | C++ | R | SQL
 - 📩 Reach me at <yon9hanlin@gmail.com>
 <!--<p>
 <img src="https://github-readme-stats.vercel.app/api?username=yonghanlin&bg_color=1f2938&text_color=FFFFFF&show_icons=true&hide-border=true&include_all_commits=true" />
