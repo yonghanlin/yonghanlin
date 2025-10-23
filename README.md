@@ -4,7 +4,7 @@
 - 🏫 Currently a Master's student at UIUC CS
 - 💻 Tech Stack: Python | Java | JavaScript | SQL | C++
 - 📩 Reach me at <yon9hanlin@gmail.com>
-- 📢 Currently looking for 2026 Software Engineering Internship
+- 📢 Looking for 2026 Software Engineering Internship!
 <!--<p>
 <img src="https://github-readme-stats.vercel.app/api?username=yonghanlin&bg_color=1f2938&text_color=FFFFFF&show_icons=true&hide-border=true&include_all_commits=true" />
 </p>-->
