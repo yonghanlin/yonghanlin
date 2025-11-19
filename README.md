@@ -1,10 +1,10 @@
 <h1 align="center">Hi👋, I am Yong-Han</h1>
 
 - 🔬 Software Developer & Human-Computer Interaction Researcher
-- 🏫 Currently a Master's student at UIUC CS
+- 🏫 Currently a computer science master's student at University of Illinois Urbana Champaign
 - 💻 Tech Stack: Python | Java | JavaScript | SQL | C++
 - 📩 Reach me at <yon9hanlin@gmail.com>
-- 🙋🏻 Looking for 2026 Software Engineering Internship!
+- 🙋🏻 Actively seeking 2026 software engineering or research internships, with interests in applied ML projects 
 <!--<p>
 <img src="https://github-readme-stats.vercel.app/api?username=yonghanlin&bg_color=1f2938&text_color=FFFFFF&show_icons=true&hide-border=true&include_all_commits=true" />
 </p>-->
