@@ -2,7 +2,7 @@
 
 - 🔬 Software Developer & Human-Computer Interaction Researcher
 - 🏫 Currently a computer science master's student at University of Illinois Urbana Champaign
-- 💻 Tech Stack: Python | Java | JavaScript | SQL | C++
+- 💻 Tech Stack: Python | Java | SQL | JavaScript | HTML/CSS
 - 📩 Reach me at <yon9hanlin@gmail.com>
 - 🙋🏻 Actively seeking 2026 summer software engineering internship, with interests in full-stack, data science, and applied ML. 
 <!--<p>
