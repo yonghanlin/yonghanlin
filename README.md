@@ -4,7 +4,6 @@
 - 🏫 Currently a computer science master's student at University of Illinois Urbana Champaign
 - 💻 Tech Stack: Python | Java | JavaScript/TypeScript | SQL/NoSQL | Flask | Android | Google Cloud Platform | AWS
 - 📩 Reach me at <a href="mailto:yon9hanlin@gmail.com">yon9hanlin [at] gmail [dot] com </a>
-- 🙋🏻 Actively seeking 2026 summer software engineering internship, with interests in full-stack, applied ML, and DevOps/DevEx
 <!--<p>
 <img src="https://github-readme-stats.vercel.app/api?username=yonghanlin&bg_color=1f2938&text_color=FFFFFF&show_icons=true&hide-border=true&include_all_commits=true" />
 </p>-->
